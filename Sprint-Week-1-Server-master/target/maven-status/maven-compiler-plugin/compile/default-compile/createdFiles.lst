@@ -1,9 +1,0 @@
-com/keyin/model/TopUp.class
-com/keyin/model/Ride.class
-com/keyin/model/MCard.class
-com/keyin/controller/MCardController.class
-com/keyin/repository/RideRepository.class
-com/keyin/repository/TopUpRepository.class
-com/keyin/repository/MCardRepository.class
-com/keyin/service/MCardService.class
-com/keyin/MetrobusApplication.class
